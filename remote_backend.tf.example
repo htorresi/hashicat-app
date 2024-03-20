@@ -1,0 +1,8 @@
+terraform {
+  cloud {
+    organization = "hati-corp"
+    workspaces {
+      name = "hashicat-aws"
+    }
+  }
+}
