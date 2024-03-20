@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
+# Copyright (c) HashiCorp, Inc. 
 
 # Outputs file
 output "catapp_url" {
